@@ -52,4 +52,4 @@ Pick a challenge, explore the **learning modules**, and submit your project for 
 💡 **Need help?** Join the **ICP Bootcamp Community** on:  
 📢 [OC](https://example.com) | 💬 [TG](https://example.com/) | 👨‍💻 [Calendar](https://example.com)
 
-📚 **Stay Curious & Keep Coding!** 💡
+📚 **Stay Curious & Keep Coding!** 🚀
