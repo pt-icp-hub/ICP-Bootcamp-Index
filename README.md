@@ -12,10 +12,11 @@ Get ready to **learn, build, and compete** in this exciting bootcamp for **Inter
 
 You can submit your solutions in **Motoko**, **TypeScript**, or **Rust**:
 
-- **TypeScript**: [Candid RPC Documentation](https://demergent-labs.github.io/azle/candid_rpc.html)
-- **Rust**: [Rust CDK Documentation](https://internetcomputer.org/docs/current/developer-docs/backend/rust/)
+- **Motoko**: See Beginner Challenge.
+- **TypeScript**: [Azle Documentation](https://demergent-labs.github.io/azle/candid_rpc.html)
+- **Rust**: [Rust Documentation](https://internetcomputer.org/docs/current/developer-docs/backend/rust/)
 
-📩 **Submit Your Project**: [Submission Form](https://formyfi.io/form/071b1e15-f475-4696-92d8-3c6cc2980a87)
+📩 **Submit Your Challenge**: [Submission Form](https://formyfi.io/form/071b1e15-f475-4696-92d8-3c6cc2980a87)
 
 ---
 
