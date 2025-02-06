@@ -45,16 +45,10 @@ You can submit your solutions in **Motoko**, **TypeScript**, or **Rust**:
 
 ---
 
-### 🔗 **Advanced Chainfusion Challenge**
-🔄 **Work with cross-chain integration between ICP, Ethereum, and Bitcoin.**  
-🔗 [Advanced Chainfusion Repository](https://github.com/pt-icp-hub/ICP-Bootcamp-Advanced-Chainfusion)
-
----
-
 ## 🚀 Get Started Now!
 Pick a challenge, explore the **learning modules**, and submit your project for receiving rewards! 🏆
 
-💡 **Need help?** Join the **ICP Developer Community** on:  
-📢 [Discord](https://discord.gg/BemnUc6Rjf) | 💬 [Forum](https://forum.dfinity.org/) | 👨‍💻 [Twitter](https://x.com/DFINITYDev)
+💡 **Need help?** Join the **ICP Bootcamp Community** on:  
+📢 [OC](https://example.com) | 💬 [TG](https://example.com/) | 👨‍💻 [Calendar](https://example.com)
 
 🚀 **Happy Hacking & Good Luck!** 🚀
