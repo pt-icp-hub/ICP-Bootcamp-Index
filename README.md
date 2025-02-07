@@ -16,7 +16,7 @@ You can submit your solutions in **Motoko**, **TypeScript**, or **Rust**:
 - **TypeScript**: [Azle Documentation](https://demergent-labs.github.io/azle/candid_rpc.html)
 - **Rust**: [Rust Documentation](https://internetcomputer.org/docs/current/developer-docs/backend/rust/)
 
-📩 **Submit Your Challenge**: [Submission Form](https://formyfi.io/form/071b1e15-f475-4696-92d8-3c6cc2980a87)
+📩 **Submit Your Challenge**: [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfRDeUw9sckd9vVmfb9gQKs4btvZRlHLTNBTgN57HdxEnge2w/viewform?usp=dialog)
 
 ---
 
