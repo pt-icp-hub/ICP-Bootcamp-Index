@@ -49,7 +49,13 @@ You can submit your solutions in **Motoko**, **TypeScript**, or **Rust**:
 ## 🚀 Get Started Now!
 Pick a challenge, explore the **learning modules**, and submit your project for receiving rewards! 🏆
 
-💡 **Need help?** Join the **ICP Bootcamp Community** on:  
-📢 [OC](https://example.com) | 💬 [TG](https://example.com/) | 👨‍💻 [Calendar](https://example.com)
+---
+
+## 🤝 Join the ICP Developer Community!
+👨‍💻 **Twitter**: [@DFINITYDev](https://x.com/DFINITYDev)  
+📢 **Discord**: [DFINITY Devs](https://discord.gg/BemnUc6Rjf)  
+💬 **Forum**: [ICP Developer Forum](https://forum.dfinity.org/)  
+
+---
 
 📚 **Stay Curious & Keep Coding!** 🚀
