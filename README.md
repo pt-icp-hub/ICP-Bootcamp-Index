@@ -6,6 +6,8 @@ Get ready to **learn, build, and compete** in this exciting bootcamp for **Inter
 
 🎯 **Agenda & Prizes**: [View Details](https://lu.ma/5o20vabw)
 
+📅 **Calendar**: [Add Calendar!](https://calendar.google.com/calendar/u/0?cid=Y182NzQ0NTc3Zjk3ZjQxNzg5MGU1NDU5MGFkZjlkNGQxYzQyMmFhZjZiYTUyZWM2ZGIzODQ1MzhkOTYyYmJjNTkyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
 ---
 
 ## 🏆 Submission Details
@@ -52,9 +54,8 @@ Pick a challenge, explore the **learning modules**, and submit your project for 
 ---
 
 ## 🤝 Join the ICP Developer Community!
-👨‍💻 **Twitter**: [@DFINITYDev](https://x.com/DFINITYDev)  
-📢 **Discord**: [DFINITY Devs](https://discord.gg/BemnUc6Rjf)  
-💬 **Forum**: [ICP Developer Forum](https://forum.dfinity.org/)  
+
+Check your email (from Luma) and ensure you join the TG group for announcements and the OC community for tech support.
 
 ---
 
