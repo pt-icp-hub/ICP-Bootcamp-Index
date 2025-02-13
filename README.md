@@ -55,7 +55,7 @@ Pick a challenge, explore the **learning modules**, and submit your project for 
 
 ## 🤝 Join the ICP Developer Community!
 
-Check your email (from Luma) and ensure you join the TG group for announcements and the OC community for tech support.
+Check your email (from Luma) and ensure you join the Telegram group for announcements and the Open Chat community for tech support.
 
 ---
 
