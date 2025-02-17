@@ -30,19 +30,19 @@ You can submit your solutions in **Motoko**, **TypeScript**, or **Rust**:
 
 ---
 
-### ⚙️ **Advanced Backend Challenge**
+### ⚙️ **Advanced Backend Challenge** (after 18th Feb)
 🛠️ **Master authentication, inter-canister communication, and CICD.**  
 🔗 [Advanced Backend Repository](https://github.com/pt-icp-hub/ICP-Bootcamp-Advanced-Backend)
 
 ---
 
-### 🎨 **Advanced Frontend Challenge**
+### 🎨 **Advanced Frontend Challenge** (after 19th Feb)
 🖥️ **Build interactive frontends with Next.js, Internet Identity, and ICP.**  
 🔗 [Advanced Frontend Repository](https://github.com/pt-icp-hub/ICP-Bootcamp-Advanced-Frontend)
 
 ---
 
-### 🤖 **Advanced AI Challenge**
+### 🤖 **Advanced AI Challenge** (after 20th Feb)
 🧠 **Integrate AI-powered agents with ICP canisters.**  
 🔗 [Advanced AI Repository](https://github.com/pt-icp-hub/ICP-Bootcamp-Advanced-AI)
 
